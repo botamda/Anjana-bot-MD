@@ -1,5 +1,5 @@
 {
-  "name": "VihangaBot-MD",
+  "name": "REAL PANDA-MD",
   "version": "2.0,1",
   "description": "WhatsApp Using Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "vihangayt.",
+  "author": "REAL PANDA.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/sanuwaofficial/Baileys.git",
